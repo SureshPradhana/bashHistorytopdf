@@ -1,4 +1,4 @@
 # bashHistorytopdf
-run `python bashhistoryToPdf.py` from same directory where `.bash_history` exists
+run `python bashhistoryToPdf.py` from same directory where `.bash_history` exists <br/>
  path in Windows `C:\Users\username`
  
